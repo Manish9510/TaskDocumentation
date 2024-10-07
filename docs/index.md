@@ -13,7 +13,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
     Documentation: Parsing and Visualizing Switch Data
 
-•	Overview
+    Overview
 This document describes the process used to parse, transform, and visualize switch data from a file. The goal was to extract switch and node information, structure it hierarchically, and represent it in a tree format using D3.js. 
 
 •	Steps and File Descriptions
